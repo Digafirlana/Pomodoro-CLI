@@ -44,6 +44,4 @@ Change work duration, short break, long break, and number of rounds directly fro
 | `Space` | Run / Pause |
 | `N` | Skip to next phase |
 | `Q` | Exit to menu |
-# Pomodoro-CLI
-# Pomodoro-CLI
-# Pomodoro-CLI
+
