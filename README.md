@@ -45,3 +45,4 @@ Change work duration, short break, long break, and number of rounds directly fro
 | `N` | Skip to next phase |
 | `Q` | Exit to menu |
 # Pomodoro-CLI
+# Pomodoro-CLI
