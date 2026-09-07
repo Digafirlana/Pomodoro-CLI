@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# 🍅Pomodoro Timer
 
 A Pomodoro timer CLI written in C++. No external dependencies.
 
